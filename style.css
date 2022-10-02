@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 100px;
+}
+.main>*{
+    flex-basis: 100%;
+}
+.left{
+    text-align: justify;
+}
+.boy_img{   
+    background-color: rgb(255, 183, 0);
+    border-radius: 23% 77% 50% 50% / 30% 42% 58% 70%;
+}
